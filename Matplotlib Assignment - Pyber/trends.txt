@@ -1,0 +1,8 @@
+Three Noticeable Trends:
+1. Correlation Between fare & supply of drivers - There appears to be some form of correlation between average fare and
+   supply of drivers in a given city type. Rural has the highest average fares and the least amount of drivers. On the other hand urban has
+   the most amount of drivers and lower average fares.
+2. Supply and Demand/Urban - The supply of drivers in the urban market (relative to total drivers) seems to be greater than the urban demand of
+   rides (relative to total rides). One could conclude that urban drivers are either often part time or do not receive their 'fair share'.
+3. Supply and Revenue/Suburban - Despite only accounting for 16% of the total driver market, surburban drivers bring in over 30% of
+   total fares. One could assume that suburban drivers take longer trips than urban. As a result, they probablu make more per rider as well.
